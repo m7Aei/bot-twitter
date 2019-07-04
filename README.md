@@ -2,6 +2,11 @@
 
 Esse é um bot para o twitter, estou fazendo ele para apenas brincar um pouco com a API do twitter e com o nodeJS, sem nenhum outro foco a não ser meu aprendizado.
 
+## To-Do List :worried:
+
+- [ ] Implementar a parte de conseguir pegar tweets
+- [ ] Implementar a parte que consiga deletar um tweet
+
 ## Contribuições :clap: :v:
 
 Para fazer qualquer contribuição no projeto basta fazer uma pull request ou uma issue falando sobre as modificações que deseja fazer. Desde já agradeço qualquer contribuição :punch:
